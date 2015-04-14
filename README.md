@@ -6,10 +6,10 @@ At some point, I'd like to add a section with tips/advice on finding a remote jo
 
 # Remote Job Boards
 - [We Work Remotely](https://weworkremotely.com/)
-- [Front End Developer Jobs](http://frontenddeveloperjob.com/) *
-- [Slack at Work](http://slackatwork.com/) *
+- [Front End Developer Jobs](http://frontenddeveloperjob.com/) ✦
+- [Slack at Work](http://slackatwork.com/) ✦
 - [Remotive Jobs](http://jobs.remotive.io/)
-- [GitHub Jobs](https://jobs.github.com/positions?description=remote&location=) *
+- [GitHub Jobs](https://jobs.github.com/positions?description=remote&location=) ✦
 - [WorkingRemote.ly List of Distributed Companies](http://workingremote.ly/leaders/distributed-companies/)
 
-* These boards also contain non-remote jobs
+✦ These boards also contain non-remote jobs
