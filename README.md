@@ -5,11 +5,20 @@ If you know of a quality job board that has a large number of remote positions, 
 At some point, I'd like to add a section with tips/advice on finding a remote job. Feel free to open a PR for that too!
 
 # Remote Job Boards
+## All Industries
 - [We Work Remotely](https://weworkremotely.com/)
-- [Front End Developer Jobs](http://frontenddeveloperjob.com/) ✦
 - [Slack at Work](http://slackatwork.com/) ✦
 - [Remotive Jobs](http://jobs.remotive.io/)
-- [GitHub Jobs](https://jobs.github.com/positions?description=remote&location=) ✦
 - [WorkingRemote.ly List of Distributed Companies](http://workingremote.ly/leaders/distributed-companies/)
+- [Authentic Jobs](http://www.authenticjobs.com/#onlyremote=1) ✦
+- [Skip the Drive](http://www.skipthedrive.com/)
+- [Working Nomads](http://www.workingnomads.co/jobs)
+- [Virtual Vocations](http://www.virtualvocations.com/)
 
-✦ These boards also contain non-remote jobs
+## Web Industry
+- [Front End Developer Jobs](http://frontenddeveloperjob.com/) ✦
+- [GitHub Jobs](https://jobs.github.com/positions?description=remote&location=) ✦
+- [StackOverflow Careers](http://careers.stackoverflow.com/jobs/remote) ✦
+
+✦ These boards aren't strictly remote, but have a large number of remote job listings
+
