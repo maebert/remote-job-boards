@@ -22,3 +22,5 @@ At some point, I'd like to add a section with tips/advice on finding a remote jo
 
 ✦ These boards aren't strictly remote, but have a large number of remote job listings
 
+[Another list of remote job boards](https://github.com/lukasz-madon/awesome-remote-job#job-boards).
+
