@@ -6,6 +6,7 @@ At some point, I'd like to add a section with tips/advice on finding a remote jo
 
 # Remote Job Boards
 ## All Industries
+- [Career Vault](https://careervault.io/)
 - [We Work Remotely](https://weworkremotely.com/)
 - [Slack at Work](http://slackatwork.com/) ✦
 - [Remotive Jobs](http://jobs.remotive.io/)
