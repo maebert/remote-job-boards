@@ -14,11 +14,20 @@ At some point, I'd like to add a section with tips/advice on finding a remote jo
 - [Skip the Drive](http://www.skipthedrive.com/)
 - [Working Nomads](http://www.workingnomads.co/jobs)
 - [Virtual Vocations](http://www.virtualvocations.com/)
+- 
 
 ## Web Industry
 - [Front End Developer Jobs](http://frontenddeveloperjob.com/) ✦
 - [GitHub Jobs](https://jobs.github.com/positions?description=remote&location=) ✦
 - [StackOverflow Careers](http://careers.stackoverflow.com/jobs/remote) ✦
+
+## Data
+- [Dataaxy](http://dataaxy.com/) ✦
+
+
+## Canada
+- [Freel](http://freel.ca/) ✦
+
 
 ✦ These boards aren't strictly remote, but have a large number of remote job listings
 
