@@ -7,6 +7,7 @@ At some point, I'd like to add a section with tips/advice on finding a remote jo
 # Remote Job Boards
 ## All Industries
 - [We Work Remotely](https://weworkremotely.com/)
+- [OKJob - 4 day week jobs](https://okjob.io/)
 - [Slack at Work](http://slackatwork.com/) ✦
 - [Remotive Jobs](http://jobs.remotive.io/)
 - [WorkingRemote.ly List of Distributed Companies](http://workingremote.ly/leaders/distributed-companies/)
